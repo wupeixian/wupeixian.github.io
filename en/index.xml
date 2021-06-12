@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example site multi-language</title>
+    <title>PX&#39;s website</title>
     <link>https://wupeixian.github.io/en/</link>
-    <description>Recent content on Example site multi-language</description>
+    <description>Recent content on PX&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate><atom:link href="https://wupeixian.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fair Collaboration Platform</title>
+      <title>Attachment Bonding System</title>
       <link>https://wupeixian.github.io/en/blog/attachment-bonding-system/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
       <guid>https://wupeixian.github.io/en/blog/attachment-bonding-system/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
+      <description>Attachment Bonding System Attachment Bonding System
 hugo serve </description>
     </item>
     
@@ -39,41 +39,41 @@ hugo serve </description>
     
     <item>
       <title>Fair Collaboration Platform</title>
-      <link>https://wupeixian.github.io/en/blog/first-aid-hero/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://wupeixian.github.io/en/blog/first-aid-hero/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
-hugo serve </description>
-    </item>
-    
-    <item>
-      <title>Fair Collaboration Platform</title>
-      <link>https://wupeixian.github.io/en/blog/green-travel/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://wupeixian.github.io/en/blog/green-travel/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
-hugo serve </description>
-    </item>
-    
-    <item>
-      <title>Fair Collaboration Platform</title>
-      <link>https://wupeixian.github.io/en/blog/handwashing-smart-mirror/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://wupeixian.github.io/en/blog/handwashing-smart-mirror/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
-hugo serve </description>
-    </item>
-    
-    <item>
-      <title>Fair Collaboration Platform</title>
       <link>https://wupeixian.github.io/en/blog/pee-mail-visualization/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
       <guid>https://wupeixian.github.io/en/blog/pee-mail-visualization/</guid>
       <description>Fair Collaboration Platform Fair Collaboration Platform
+hugo serve </description>
+    </item>
+    
+    <item>
+      <title>First Aid Hero</title>
+      <link>https://wupeixian.github.io/en/blog/first-aid-hero/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      
+      <guid>https://wupeixian.github.io/en/blog/first-aid-hero/</guid>
+      <description>First Aid Hero First Aid Hero
+hugo serve </description>
+    </item>
+    
+    <item>
+      <title>Green Travel</title>
+      <link>https://wupeixian.github.io/en/blog/green-travel/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      
+      <guid>https://wupeixian.github.io/en/blog/green-travel/</guid>
+      <description>Green Travel Green Travel
+hugo serve </description>
+    </item>
+    
+    <item>
+      <title>Handwashing Smart Mirror</title>
+      <link>https://wupeixian.github.io/en/blog/handwashing-smart-mirror/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      
+      <guid>https://wupeixian.github.io/en/blog/handwashing-smart-mirror/</guid>
+      <description>Handwashing Smart Mirror Handwashing Smart Mirror
 hugo serve </description>
     </item>
     

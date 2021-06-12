@@ -19,32 +19,11 @@ hugo serve </description>
     
     <item>
       <title>Fair Collaboration Platform</title>
-      <link>https://wupeixian.github.io/en/blog/blog-photos-on-phone/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://wupeixian.github.io/en/blog/blog-photos-on-phone/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
-hugo serve </description>
-    </item>
-    
-    <item>
-      <title>Fair Collaboration Platform</title>
       <link>https://wupeixian.github.io/en/blog/fair-collaboration-platform/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
       <guid>https://wupeixian.github.io/en/blog/fair-collaboration-platform/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
-hugo serve </description>
-    </item>
-    
-    <item>
-      <title>Fair Collaboration Platform</title>
-      <link>https://wupeixian.github.io/en/blog/pee-mail-visualization/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://wupeixian.github.io/en/blog/pee-mail-visualization/</guid>
-      <description>Fair Collaboration Platform Fair Collaboration Platform
-hugo serve </description>
+      <description>Fair Collaboration Platform </description>
     </item>
     
     <item>
@@ -84,6 +63,16 @@ hugo serve </description>
       
       <guid>https://wupeixian.github.io/en/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+    <item>
+      <title>Pee Mail Visualization</title>
+      <link>https://wupeixian.github.io/en/blog/pee-mail-visualization/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      
+      <guid>https://wupeixian.github.io/en/blog/pee-mail-visualization/</guid>
+      <description>Pee Mail Visualization Pee Mail Visualization
+hugo serve </description>
     </item>
     
     <item>

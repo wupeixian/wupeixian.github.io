@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wupeixian.github.io/en/blog/attachment-bonding-system/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url><url>
-    <loc>https://wupeixian.github.io/en/blog/first-aid-hero/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url><url>
-    <loc>https://wupeixian.github.io/en/blog/green-travel/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+    <loc>https://wupeixian.github.io/en/blog/</loc>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
   </url><url>
     <loc>https://wupeixian.github.io/en/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,14 +18,13 @@
                 href="https://wupeixian.github.io/en/"
                 />
   </url><url>
-    <loc>https://wupeixian.github.io/en/blog/</loc>
-    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
-  </url><url>
     <loc>https://wupeixian.github.io/en/portfolio/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
   </url><url>
     <loc>https://wupeixian.github.io/en/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+  </url><url>
+    <loc>https://wupeixian.github.io/en/blog/attachment-bonding-system/</loc>
   </url><url>
     <loc>https://wupeixian.github.io/en/categories/</loc>
     <xhtml:link
@@ -46,6 +39,10 @@
                 />
   </url><url>
     <loc>https://wupeixian.github.io/en/blog/fair-collaboration-platform/</loc>
+  </url><url>
+    <loc>https://wupeixian.github.io/en/blog/first-aid-hero/</loc>
+  </url><url>
+    <loc>https://wupeixian.github.io/en/blog/green-travel/</loc>
   </url><url>
     <loc>https://wupeixian.github.io/en/blog/handwashing-smart-mirror/</loc>
   </url><url>
